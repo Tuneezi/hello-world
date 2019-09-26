@@ -1,0 +1,5 @@
+Pkg update && Pkg upgrade -y
+Pkg install python && pkg install python2
+Pkg install git
+Pkg install fish
+git clone
